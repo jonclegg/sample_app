@@ -54,7 +54,7 @@ var g = svg.append("g");
 
 queue()
     .defer(d3.json, "/us.json")
-    .defer(d3.json, "/us-congress-113.json")
+    .defer(d3.json, "/us-congress-1132.json")
     .await(ready);
 
 function ready(error, us, congress) {
@@ -93,6 +93,9 @@ function ready(error, us, congress) {
 
 function clicked(d) {
   var x, y, k;
+  
+  console.log( us.objects.land);
+  console.log( "hello?");
 
   if (d && centered !== d) {
     var centroid = path.centroid(d);
