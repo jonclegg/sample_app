@@ -1,8 +1,16 @@
 <% provide(:title, 'About Us') %>
-<h1>About Us</h1>
-<p>
-  Get help on the Ruby on Rails Tutorial at the
-  <a href="http://railstutorial.org/help">Rails Tutorial help page</a>.
-  To get help on this sample app, see the
-  <a href="http://railstutorial.org/book">Rails Tutorial book</a>.
-</p>
+<script>
+
+var districts = []
+$.getJSON( "/texaszip.json", function( data ) {
+  
+  $.each( data, function( key, val ) {
+    if (typeof districts[val.z] == "undefined") {
+      districts[val.z] = new Array();
+    }
+    districts[val.z].push(val.d);
+  });
+ 
+});
+
+</script>

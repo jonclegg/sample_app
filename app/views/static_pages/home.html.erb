@@ -32,12 +32,34 @@ path {
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script src="http://d3js.org/queue.v1.min.js"></script>
 <script src="http://d3js.org/topojson.v1.min.js"></script>
+
+<script>
+
+var districts = []
+$.getJSON( "/texaszip.json", function( data ) {
+
+  $.each( data, function( key, val ) {
+    if (typeof districts[val.z] == "undefined") {
+      districts[val.z] = new Array();
+    }
+    districts[val.z].push(val.d);
+    //districts[val.z] = val.d;
+  });
+
+});
+
+</script>
+
 <script>
 
 var width = 960,
     height = 500;
 var centered;
 
+var color = d3.scale.linear()
+    .domain([0, 50])
+    .range(["#4575b4", "#a50026"])
+    .interpolate(d3.interpolateHcl);
 
 var projection = d3.geo.albersUsa()
     .scale(1070)
@@ -51,6 +73,7 @@ var svg = d3.select("body").append("svg")
     .attr("height", height);
 
 var g = svg.append("g");
+var districtPaths = [];
 
 queue()
     .defer(d3.json, "/us.json")
@@ -68,6 +91,11 @@ function ready(error, us, congress) {
     .append("use")
       .attr("xlink:href", "#land");
 
+  districtPath = g.append("g")
+      .attr("class", "districts")
+      .attr("clip-path", "url(#clip-land)")
+    .selectAll("path");
+
   g.append("g")
       .attr("class", "districts")
       .attr("clip-path", "url(#clip-land)")
@@ -77,49 +105,105 @@ function ready(error, us, congress) {
       .attr("d", path)
       .on("click", clicked)
     .append("title")
-      .text(function(d) { return d.id; });
+      .text(function(d) { return d.id; })
+    .append("id")
+      .text(function(d) { return d.properties.STATEFP + d.properties.CD113FP; });
+
+  topojson.feature(congress, congress.objects.districts)
+    .features
+    .forEach(render);
+
 
   g.append("path")
-      .attr("class", "district-boundaries")
-      .attr("clip-path", "url(#clip-land)")
-      .datum(topojson.mesh(congress, congress.objects.districts, function(a, b) { return (a.id / 1000 | 0) === (b.id / 1000 | 0); }))
-      .attr("d", path);
+    .attr("class", "district-boundaries")
+    .attr("clip-path", "url(#clip-land)")
+    .datum(topojson.mesh(congress, congress.objects.districts, function(a, b) { return (a.id / 1000 | 0) === (b.id / 1000 | 0); }))
+    .attr("d", path);
 
   g.append("path")
-      .attr("class", "state-boundaries")
-      .datum(topojson.mesh(us, us.objects.states, function(a, b) { return a !== b; }))
-      .attr("d", path);
+    .attr("class", "state-boundaries")
+    .datum(topojson.mesh(us, us.objects.states, function(a, b) { return a !== b; }))
+    .attr("d", path);
 }
+
+
+function render(d) {
+  //console.log("state = " + d.properties.STATEFP + ", district = " + d.properties.CD113FP);
+  var state = d.properties.STATEFP;
+  var district = d.properties.CD113FP; 
+  if (state == 48) {
+    districtPaths[district] = d;
+  }
+}
+
 
 function clicked(d) {
   var x, y, k;
-  
-  console.log( us.objects.land);
-  console.log( "hello?");
-
+  //d = cali8;
+//  console.log("state = " + d.properties.STATEFP + ", district = " + d.properties.CD113FP);
+  console.log(d);
+ 
   if (d && centered !== d) {
+    console.log("in");
     var centroid = path.centroid(d);
     x = centroid[0];
     y = centroid[1];
     k = 4;
     centered = d;
   } else {
+    console.log("out");
     x = width / 2;
     y = height / 2;
     k = 1;
     centered = null;
   }
 
-  g.selectAll("path")
-      .classed("active", centered && function(d) { return d === centered; });
-
   g.transition()
       .duration(750)
       .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")scale(" + k + ")translate(" + -x + "," + -y + ")")
-      .style("stroke-width", 1.5 / k + "px");
+      .style("stroke-width", centered == null ? "1" : 1.5 / k + "px");
+  
 }
 
+function highlightDistrict(d) {
+  g.selectAll("path")
+     .style("fill", function(t) { 
+        if (typeof t.properties == "undefined") {
+   	   return null;
+        }
+        for(i in d) {
+           if (t.properties.GEOID == d[i].properties.GEOID) {
+              return "orange";
+           }
+        }
+        return null;
+     });
+}
 
+function findZip() {
+   var zip = $(userZip).val();
+   var paths = [];
+   districts[zip].map( function(item) {
+      paths.push(districtPaths[item]);
+   });
+   clicked(districtPaths[districts[zip][0]]);
+   
+/*
+   for (i in districts[zip]) {
+      var seldis = districts[zip][i];
+      if (i == 0) {
+         clicked(districtPaths[seldis])
+      }
+      paths.push(districtPaths[seldis]);
+   }
+*/
+   highlightDistrict(paths);
+
+}
 
 </script>
+<br>
+Enter your zip
+<input id="userZip" value="78757"/> <input type="button" onclick="findZip()" value="submit"/>
+
 
