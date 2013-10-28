@@ -1,0 +1,4739 @@
+{
+  "sen": [
+    {
+      "first": "Sherrod",
+      "last": "Brown",
+      "party": "Democrat",
+      "enddate": "2019-01-03",
+      "type": "sen",
+      "state": "OH"
+    },
+    {
+      "first": "Maria",
+      "last": "Cantwell",
+      "party": "Democrat",
+      "enddate": "2019-01-03",
+      "type": "sen",
+      "state": "WA"
+    },
+    {
+      "first": "Benjamin",
+      "last": "Cardin",
+      "party": "Democrat",
+      "enddate": "2019-01-03",
+      "type": "sen",
+      "state": "MD"
+    },
+    {
+      "first": "Thomas",
+      "last": "Carper",
+      "party": "Democrat",
+      "enddate": "2019-01-03",
+      "type": "sen",
+      "state": "DE"
+    },
+    {
+      "first": "Robert",
+      "last": "Casey",
+      "party": "Democrat",
+      "enddate": "2019-01-03",
+      "type": "sen",
+      "state": "PA"
+    },
+    {
+      "first": "Bob",
+      "last": "Corker",
+      "party": "Republican",
+      "enddate": "2019-01-03",
+      "type": "sen",
+      "state": "TN"
+    },
+    {
+      "first": "Dianne",
+      "last": "Feinstein",
+      "party": "Democrat",
+      "enddate": "2019-01-03",
+      "type": "sen",
+      "state": "CA"
+    },
+    {
+      "first": "Orrin",
+      "last": "Hatch",
+      "party": "Republican",
+      "enddate": "2019-01-03",
+      "type": "sen",
+      "state": "UT"
+    },
+    {
+      "first": "Amy",
+      "last": "Klobuchar",
+      "party": "Democrat",
+      "enddate": "2019-01-03",
+      "type": "sen",
+      "state": "MN"
+    },
+    {
+      "first": "Claire",
+      "last": "McCaskill",
+      "party": "Democrat",
+      "enddate": "2019-01-03",
+      "type": "sen",
+      "state": "MO"
+    },
+    {
+      "first": "Robert",
+      "last": "Menéndez",
+      "party": "Democrat",
+      "enddate": "2019-01-03",
+      "type": "sen",
+      "state": "NJ"
+    },
+    {
+      "first": "Bill",
+      "last": "Nelson",
+      "party": "Democrat",
+      "enddate": "2019-01-03",
+      "type": "sen",
+      "state": "FL"
+    },
+    {
+      "first": "Bernard",
+      "last": "Sanders",
+      "party": "Independent",
+      "enddate": "2019-01-03",
+      "type": "sen",
+      "state": "VT"
+    },
+    {
+      "first": "Debbie",
+      "last": "Stabenow",
+      "party": "Democrat",
+      "enddate": "2019-01-03",
+      "type": "sen",
+      "state": "MI"
+    },
+    {
+      "first": "Jon",
+      "last": "Tester",
+      "party": "Democrat",
+      "enddate": "2019-01-03",
+      "type": "sen",
+      "state": "MT"
+    },
+    {
+      "first": "Sheldon",
+      "last": "Whitehouse",
+      "party": "Democrat",
+      "enddate": "2019-01-03",
+      "type": "sen",
+      "state": "RI"
+    },
+    {
+      "first": "John",
+      "last": "Barrasso",
+      "party": "Republican",
+      "enddate": "2019-01-03",
+      "type": "sen",
+      "state": "WY"
+    },
+    {
+      "first": "Roger",
+      "last": "Wicker",
+      "party": "Republican",
+      "enddate": "2019-01-03",
+      "type": "sen",
+      "state": "MS"
+    },
+    {
+      "first": "Lamar",
+      "last": "Alexander",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "sen",
+      "state": "TN"
+    },
+    {
+      "first": "Max",
+      "last": "Baucus",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "sen",
+      "state": "MT"
+    },
+    {
+      "first": "Mark",
+      "last": "Begich",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "sen",
+      "state": "AK"
+    },
+    {
+      "first": "Saxby",
+      "last": "Chambliss",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "sen",
+      "state": "GA"
+    },
+    {
+      "first": "Thad",
+      "last": "Cochran",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "sen",
+      "state": "MS"
+    },
+    {
+      "first": "Susan",
+      "last": "Collins",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "sen",
+      "state": "ME"
+    },
+    {
+      "first": "John",
+      "last": "Cornyn",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "sen",
+      "state": "TX"
+    },
+    {
+      "first": "Richard",
+      "last": "Durbin",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "sen",
+      "state": "IL"
+    },
+    {
+      "first": "Michael",
+      "last": "Enzi",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "sen",
+      "state": "WY"
+    },
+    {
+      "first": "Lindsey",
+      "last": "Graham",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "sen",
+      "state": "SC"
+    },
+    {
+      "first": "Kay",
+      "last": "Hagan",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "sen",
+      "state": "NC"
+    },
+    {
+      "first": "Thomas",
+      "last": "Harkin",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "sen",
+      "state": "IA"
+    },
+    {
+      "first": "James",
+      "last": "Inhofe",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "sen",
+      "state": "OK"
+    },
+    {
+      "first": "Mike",
+      "last": "Johanns",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "sen",
+      "state": "NE"
+    },
+    {
+      "first": "Tim",
+      "last": "Johnson",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "sen",
+      "state": "SD"
+    },
+    {
+      "first": "Mary",
+      "last": "Landrieu",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "sen",
+      "state": "LA"
+    },
+    {
+      "first": "Carl",
+      "last": "Levin",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "sen",
+      "state": "MI"
+    },
+    {
+      "first": "Mitch",
+      "last": "McConnell",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "sen",
+      "state": "KY"
+    },
+    {
+      "first": "Jeff",
+      "last": "Merkley",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "sen",
+      "state": "OR"
+    },
+    {
+      "first": "Mark",
+      "last": "Pryor",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "sen",
+      "state": "AR"
+    },
+    {
+      "first": "John",
+      "last": "Reed",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "sen",
+      "state": "RI"
+    },
+    {
+      "first": "James",
+      "last": "Risch",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "sen",
+      "state": "ID"
+    },
+    {
+      "first": "Pat",
+      "last": "Roberts",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "sen",
+      "state": "KS"
+    },
+    {
+      "first": "John",
+      "last": "Rockefeller",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "sen",
+      "state": "WV"
+    },
+    {
+      "first": "Jefferson",
+      "last": "Sessions",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "sen",
+      "state": "AL"
+    },
+    {
+      "first": "Jeanne",
+      "last": "Shaheen",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "sen",
+      "state": "NH"
+    },
+    {
+      "first": "Mark",
+      "last": "Udall",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "sen",
+      "state": "CO"
+    },
+    {
+      "first": "Tom",
+      "last": "Udall",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "sen",
+      "state": "NM"
+    },
+    {
+      "first": "Mark",
+      "last": "Warner",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "sen",
+      "state": "VA"
+    },
+    {
+      "first": "Kirsten",
+      "last": "Gillibrand",
+      "party": "Democrat",
+      "enddate": "2019-01-03",
+      "type": "sen",
+      "state": "NY"
+    },
+    {
+      "first": "Alan",
+      "last": "Franken",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "sen",
+      "state": "MN"
+    },
+    {
+      "first": "Chris",
+      "last": "Coons",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "sen",
+      "state": "DE"
+    },
+    {
+      "first": "Joe",
+      "last": "Manchin",
+      "party": "Democrat",
+      "enddate": "2019-01-03",
+      "type": "sen",
+      "state": "WV"
+    },
+    {
+      "first": "Kelly",
+      "last": "Ayotte",
+      "party": "Republican",
+      "enddate": "2017-01-03",
+      "type": "sen",
+      "state": "NH"
+    },
+    {
+      "first": "Tammy",
+      "last": "Baldwin",
+      "party": "Democrat",
+      "enddate": "2019-01-03",
+      "type": "sen",
+      "state": "WI"
+    },
+    {
+      "first": "Michael",
+      "last": "Bennet",
+      "party": "Democrat",
+      "enddate": "2017-01-03",
+      "type": "sen",
+      "state": "CO"
+    },
+    {
+      "first": "Richard",
+      "last": "Blumenthal",
+      "party": "Democrat",
+      "enddate": "2017-01-03",
+      "type": "sen",
+      "state": "CT"
+    },
+    {
+      "first": "Roy",
+      "last": "Blunt",
+      "party": "Republican",
+      "enddate": "2017-01-03",
+      "type": "sen",
+      "state": "MO"
+    },
+    {
+      "first": "John",
+      "last": "Boozman",
+      "party": "Republican",
+      "enddate": "2017-01-03",
+      "type": "sen",
+      "state": "AR"
+    },
+    {
+      "first": "Barbara",
+      "last": "Boxer",
+      "party": "Democrat",
+      "enddate": "2017-01-03",
+      "type": "sen",
+      "state": "CA"
+    },
+    {
+      "first": "Richard",
+      "last": "Burr",
+      "party": "Republican",
+      "enddate": "2017-01-03",
+      "type": "sen",
+      "state": "NC"
+    },
+    {
+      "first": "Daniel",
+      "last": "Coats",
+      "party": "Republican",
+      "enddate": "2017-01-03",
+      "type": "sen",
+      "state": "IN"
+    },
+    {
+      "first": "Thomas",
+      "last": "Coburn",
+      "party": "Republican",
+      "enddate": "2017-01-03",
+      "type": "sen",
+      "state": "OK"
+    },
+    {
+      "first": "Michael",
+      "last": "Crapo",
+      "party": "Republican",
+      "enddate": "2017-01-03",
+      "type": "sen",
+      "state": "ID"
+    },
+    {
+      "first": "Joe",
+      "last": "Donnelly",
+      "party": "Democrat",
+      "enddate": "2019-01-03",
+      "type": "sen",
+      "state": "IN"
+    },
+    {
+      "first": "Jeff",
+      "last": "Flake",
+      "party": "Republican",
+      "enddate": "2019-01-03",
+      "type": "sen",
+      "state": "AZ"
+    },
+    {
+      "first": "Charles",
+      "last": "Grassley",
+      "party": "Republican",
+      "enddate": "2017-01-03",
+      "type": "sen",
+      "state": "IA"
+    },
+    {
+      "first": "Martin",
+      "last": "Heinrich",
+      "party": "Democrat",
+      "enddate": "2019-01-03",
+      "type": "sen",
+      "state": "NM"
+    },
+    {
+      "first": "Mazie",
+      "last": "Hirono",
+      "party": "Democrat",
+      "enddate": "2019-01-03",
+      "type": "sen",
+      "state": "HI"
+    },
+    {
+      "first": "John",
+      "last": "Hoeven",
+      "party": "Republican",
+      "enddate": "2017-01-03",
+      "type": "sen",
+      "state": "ND"
+    },
+    {
+      "first": "John",
+      "last": "Isakson",
+      "party": "Republican",
+      "enddate": "2017-01-03",
+      "type": "sen",
+      "state": "GA"
+    },
+    {
+      "first": "Ron",
+      "last": "Johnson",
+      "party": "Republican",
+      "enddate": "2017-01-03",
+      "type": "sen",
+      "state": "WI"
+    },
+    {
+      "first": "Mark",
+      "last": "Kirk",
+      "party": "Republican",
+      "enddate": "2017-01-03",
+      "type": "sen",
+      "state": "IL"
+    },
+    {
+      "first": "Patrick",
+      "last": "Leahy",
+      "party": "Democrat",
+      "enddate": "2017-01-03",
+      "type": "sen",
+      "state": "VT"
+    },
+    {
+      "first": "Mike",
+      "last": "Lee",
+      "party": "Republican",
+      "enddate": "2017-01-03",
+      "type": "sen",
+      "state": "UT"
+    },
+    {
+      "first": "Edward",
+      "last": "Markey",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "sen",
+      "state": "MA"
+    },
+    {
+      "first": "John",
+      "last": "McCain",
+      "party": "Republican",
+      "enddate": "2017-01-03",
+      "type": "sen",
+      "state": "AZ"
+    },
+    {
+      "first": "Barbara",
+      "last": "Mikulski",
+      "party": "Democrat",
+      "enddate": "2017-01-03",
+      "type": "sen",
+      "state": "MD"
+    },
+    {
+      "first": "Jerry",
+      "last": "Moran",
+      "party": "Republican",
+      "enddate": "2017-01-03",
+      "type": "sen",
+      "state": "KS"
+    },
+    {
+      "first": "Lisa",
+      "last": "Murkowski",
+      "party": "Republican",
+      "enddate": "2017-01-03",
+      "type": "sen",
+      "state": "AK"
+    },
+    {
+      "first": "Christopher",
+      "last": "Murphy",
+      "party": "Democrat",
+      "enddate": "2019-01-03",
+      "type": "sen",
+      "state": "CT"
+    },
+    {
+      "first": "Patty",
+      "last": "Murray",
+      "party": "Democrat",
+      "enddate": "2017-01-03",
+      "type": "sen",
+      "state": "WA"
+    },
+    {
+      "first": "Rand",
+      "last": "Paul",
+      "party": "Republican",
+      "enddate": "2017-01-03",
+      "type": "sen",
+      "state": "KY"
+    },
+    {
+      "first": "Robert",
+      "last": "Portman",
+      "party": "Republican",
+      "enddate": "2017-01-03",
+      "type": "sen",
+      "state": "OH"
+    },
+    {
+      "first": "Harry",
+      "last": "Reid",
+      "party": "Democrat",
+      "enddate": "2017-01-03",
+      "type": "sen",
+      "state": "NV"
+    },
+    {
+      "first": "Marco",
+      "last": "Rubio",
+      "party": "Republican",
+      "enddate": "2017-01-03",
+      "type": "sen",
+      "state": "FL"
+    },
+    {
+      "first": "Charles",
+      "last": "Schumer",
+      "party": "Democrat",
+      "enddate": "2017-01-03",
+      "type": "sen",
+      "state": "NY"
+    },
+    {
+      "first": "Tim",
+      "last": "Scott",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "sen",
+      "state": "SC"
+    },
+    {
+      "first": "Richard",
+      "last": "Shelby",
+      "party": "Republican",
+      "enddate": "2017-01-03",
+      "type": "sen",
+      "state": "AL"
+    },
+    {
+      "first": "John",
+      "last": "Thune",
+      "party": "Republican",
+      "enddate": "2017-01-03",
+      "type": "sen",
+      "state": "SD"
+    },
+    {
+      "first": "Patrick",
+      "last": "Toomey",
+      "party": "Republican",
+      "enddate": "2017-01-03",
+      "type": "sen",
+      "state": "PA"
+    },
+    {
+      "first": "David",
+      "last": "Vitter",
+      "party": "Republican",
+      "enddate": "2017-01-03",
+      "type": "sen",
+      "state": "LA"
+    },
+    {
+      "first": "Ron",
+      "last": "Wyden",
+      "party": "Democrat",
+      "enddate": "2017-01-03",
+      "type": "sen",
+      "state": "OR"
+    },
+    {
+      "first": "Dean",
+      "last": "Heller",
+      "party": "Republican",
+      "enddate": "2019-01-03",
+      "type": "sen",
+      "state": "NV"
+    },
+    {
+      "first": "Brian",
+      "last": "Schatz",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "sen",
+      "state": "HI"
+    },
+    {
+      "first": "Elizabeth",
+      "last": "Warren",
+      "party": "Democrat",
+      "enddate": "2019-01-03",
+      "type": "sen",
+      "state": "MA"
+    },
+    {
+      "first": "Angus",
+      "last": "King",
+      "party": "Independent",
+      "enddate": "2019-01-03",
+      "type": "sen",
+      "state": "ME"
+    },
+    {
+      "first": "Heidi",
+      "last": "Heitkamp",
+      "party": "Democrat",
+      "enddate": "2019-01-03",
+      "type": "sen",
+      "state": "ND"
+    },
+    {
+      "first": "Deb",
+      "last": "Fischer",
+      "party": "Republican",
+      "enddate": "2019-01-03",
+      "type": "sen",
+      "state": "NE"
+    },
+    {
+      "first": "Ted",
+      "last": "Cruz",
+      "party": "Republican",
+      "enddate": "2019-01-03",
+      "type": "sen",
+      "state": "TX"
+    },
+    {
+      "first": "Timothy",
+      "last": "Kaine",
+      "party": "Democrat",
+      "enddate": "2019-01-03",
+      "type": "sen",
+      "state": "VA"
+    },
+    {
+      "first": "Jeffrey",
+      "last": "Chiesa",
+      "party": "Republican",
+      "enddate": "2013-12-31",
+      "type": "sen",
+      "state": "NJ"
+    }
+  ],
+  "con": [
+    {
+      "first": "Robert",
+      "last": "Aderholt",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "AL",
+      "district": 4
+    },
+    {
+      "first": "Justin",
+      "last": "Amash",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MI",
+      "district": 3
+    },
+    {
+      "first": "Robert",
+      "last": "Andrews",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NJ",
+      "district": 1
+    },
+    {
+      "first": "Michele",
+      "last": "Bachmann",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MN",
+      "district": 6
+    },
+    {
+      "first": "Spencer",
+      "last": "Bachus",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "AL",
+      "district": 6
+    },
+    {
+      "first": "Lou",
+      "last": "Barletta",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "PA",
+      "district": 11
+    },
+    {
+      "first": "John",
+      "last": "Barrow",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "GA",
+      "district": 12
+    },
+    {
+      "first": "Joe",
+      "last": "Barton",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TX",
+      "district": 6
+    },
+    {
+      "first": "Karen",
+      "last": "Bass",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 37
+    },
+    {
+      "first": "Xavier",
+      "last": "Becerra",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 34
+    },
+    {
+      "first": "Dan",
+      "last": "Benishek",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MI",
+      "district": 1
+    },
+    {
+      "first": "Gus",
+      "last": "Bilirakis",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "FL",
+      "district": 12
+    },
+    {
+      "first": "Rob",
+      "last": "Bishop",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "UT",
+      "district": 1
+    },
+    {
+      "first": "Sanford",
+      "last": "Bishop",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "GA",
+      "district": 2
+    },
+    {
+      "first": "Timothy",
+      "last": "Bishop",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NY",
+      "district": 1
+    },
+    {
+      "first": "Diane",
+      "last": "Black",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TN",
+      "district": 6
+    },
+    {
+      "first": "Marsha",
+      "last": "Blackburn",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TN",
+      "district": 7
+    },
+    {
+      "first": "Earl",
+      "last": "Blumenauer",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "OR",
+      "district": 3
+    },
+    {
+      "first": "John",
+      "last": "Boehner",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "OH",
+      "district": 8
+    },
+    {
+      "first": "Madeleine",
+      "last": "Bordallo",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "GU",
+      "district": 0
+    },
+    {
+      "first": "Charles",
+      "last": "Boustany",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "LA",
+      "district": 3
+    },
+    {
+      "first": "Kevin",
+      "last": "Brady",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TX",
+      "district": 8
+    },
+    {
+      "first": "Robert",
+      "last": "Brady",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "PA",
+      "district": 1
+    },
+    {
+      "first": "Bruce",
+      "last": "Braley",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "IA",
+      "district": 1
+    },
+    {
+      "first": "Mo",
+      "last": "Brooks",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "AL",
+      "district": 5
+    },
+    {
+      "first": "Paul",
+      "last": "Broun",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "GA",
+      "district": 10
+    },
+    {
+      "first": "Corrine",
+      "last": "Brown",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "FL",
+      "district": 5
+    },
+    {
+      "first": "Vern",
+      "last": "Buchanan",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "FL",
+      "district": 16
+    },
+    {
+      "first": "Larry",
+      "last": "Bucshon",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "IN",
+      "district": 8
+    },
+    {
+      "first": "Michael",
+      "last": "Burgess",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TX",
+      "district": 26
+    },
+    {
+      "first": "George",
+      "last": "Butterfield",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NC",
+      "district": 1
+    },
+    {
+      "first": "Ken",
+      "last": "Calvert",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 42
+    },
+    {
+      "first": "Dave",
+      "last": "Camp",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MI",
+      "district": 4
+    },
+    {
+      "first": "John",
+      "last": "Campbell",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 45
+    },
+    {
+      "first": "Eric",
+      "last": "Cantor",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "VA",
+      "district": 7
+    },
+    {
+      "first": "Shelley",
+      "last": "Capito",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "WV",
+      "district": 2
+    },
+    {
+      "first": "Lois",
+      "last": "Capps",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 24
+    },
+    {
+      "first": "Michael",
+      "last": "Capuano",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MA",
+      "district": 7
+    },
+    {
+      "first": "John",
+      "last": "Carney",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "DE",
+      "district": 0
+    },
+    {
+      "first": "André",
+      "last": "Carson",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "IN",
+      "district": 7
+    },
+    {
+      "first": "John",
+      "last": "Carter",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TX",
+      "district": 31
+    },
+    {
+      "first": "Bill",
+      "last": "Cassidy",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "LA",
+      "district": 6
+    },
+    {
+      "first": "Kathy",
+      "last": "Castor",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "FL",
+      "district": 14
+    },
+    {
+      "first": "Steve",
+      "last": "Chabot",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "OH",
+      "district": 1
+    },
+    {
+      "first": "Jason",
+      "last": "Chaffetz",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "UT",
+      "district": 3
+    },
+    {
+      "first": "Donna",
+      "last": "Christensen",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "VI",
+      "district": 0
+    },
+    {
+      "first": "Judy",
+      "last": "Chu",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 27
+    },
+    {
+      "first": "David",
+      "last": "Cicilline",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "RI",
+      "district": 1
+    },
+    {
+      "first": "Yvette",
+      "last": "Clarke",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NY",
+      "district": 9
+    },
+    {
+      "first": "Wm.",
+      "last": "Clay",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MO",
+      "district": 1
+    },
+    {
+      "first": "Emanuel",
+      "last": "Cleaver",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MO",
+      "district": 5
+    },
+    {
+      "first": "James",
+      "last": "Clyburn",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "SC",
+      "district": 6
+    },
+    {
+      "first": "Howard",
+      "last": "Coble",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NC",
+      "district": 6
+    },
+    {
+      "first": "Mike",
+      "last": "Coffman",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CO",
+      "district": 6
+    },
+    {
+      "first": "Steve",
+      "last": "Cohen",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TN",
+      "district": 9
+    },
+    {
+      "first": "Tom",
+      "last": "Cole",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "OK",
+      "district": 4
+    },
+    {
+      "first": "K.",
+      "last": "Conaway",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TX",
+      "district": 11
+    },
+    {
+      "first": "Gerald",
+      "last": "Connolly",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "VA",
+      "district": 11
+    },
+    {
+      "first": "John",
+      "last": "Conyers",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MI",
+      "district": 13
+    },
+    {
+      "first": "Jim",
+      "last": "Cooper",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TN",
+      "district": 5
+    },
+    {
+      "first": "Jim",
+      "last": "Costa",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 16
+    },
+    {
+      "first": "Joe",
+      "last": "Courtney",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CT",
+      "district": 2
+    },
+    {
+      "first": "Eric",
+      "last": "Crawford",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "AR",
+      "district": 1
+    },
+    {
+      "first": "Ander",
+      "last": "Crenshaw",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "FL",
+      "district": 4
+    },
+    {
+      "first": "Joseph",
+      "last": "Crowley",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NY",
+      "district": 14
+    },
+    {
+      "first": "Henry",
+      "last": "Cuellar",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TX",
+      "district": 28
+    },
+    {
+      "first": "John",
+      "last": "Culberson",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TX",
+      "district": 7
+    },
+    {
+      "first": "Elijah",
+      "last": "Cummings",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MD",
+      "district": 7
+    },
+    {
+      "first": "Danny",
+      "last": "Davis",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "IL",
+      "district": 7
+    },
+    {
+      "first": "Susan",
+      "last": "Davis",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 53
+    },
+    {
+      "first": "Peter",
+      "last": "DeFazio",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "OR",
+      "district": 4
+    },
+    {
+      "first": "Diana",
+      "last": "DeGette",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CO",
+      "district": 1
+    },
+    {
+      "first": "Rosa",
+      "last": "DeLauro",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CT",
+      "district": 3
+    },
+    {
+      "first": "Jeff",
+      "last": "Denham",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 10
+    },
+    {
+      "first": "Charles",
+      "last": "Dent",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "PA",
+      "district": 15
+    },
+    {
+      "first": "Scott",
+      "last": "DesJarlais",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TN",
+      "district": 4
+    },
+    {
+      "first": "Theodore",
+      "last": "Deutch",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "FL",
+      "district": 21
+    },
+    {
+      "first": "Mario",
+      "last": "Diaz-Balart",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "FL",
+      "district": 25
+    },
+    {
+      "first": "John",
+      "last": "Dingell",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MI",
+      "district": 12
+    },
+    {
+      "first": "Lloyd",
+      "last": "Doggett",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TX",
+      "district": 35
+    },
+    {
+      "first": "Michael",
+      "last": "Doyle",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "PA",
+      "district": 14
+    },
+    {
+      "first": "Sean",
+      "last": "Duffy",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "WI",
+      "district": 7
+    },
+    {
+      "first": "Jeff",
+      "last": "Duncan",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "SC",
+      "district": 3
+    },
+    {
+      "first": "John",
+      "last": "Duncan",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TN",
+      "district": 2
+    },
+    {
+      "first": "Donna",
+      "last": "Edwards",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MD",
+      "district": 4
+    },
+    {
+      "first": "Keith",
+      "last": "Ellison",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MN",
+      "district": 5
+    },
+    {
+      "first": "Renee",
+      "last": "Ellmers",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NC",
+      "district": 2
+    },
+    {
+      "first": "Eliot",
+      "last": "Engel",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NY",
+      "district": 16
+    },
+    {
+      "first": "Anna",
+      "last": "Eshoo",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 18
+    },
+    {
+      "first": "Eni",
+      "last": "Faleomavaega",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "AS",
+      "district": 0
+    },
+    {
+      "first": "Blake",
+      "last": "Farenthold",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TX",
+      "district": 27
+    },
+    {
+      "first": "Sam",
+      "last": "Farr",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 20
+    },
+    {
+      "first": "Chaka",
+      "last": "Fattah",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "PA",
+      "district": 2
+    },
+    {
+      "first": "Stephen",
+      "last": "Fincher",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TN",
+      "district": 8
+    },
+    {
+      "first": "Michael",
+      "last": "Fitzpatrick",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "PA",
+      "district": 8
+    },
+    {
+      "first": "Charles",
+      "last": "Fleischmann",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TN",
+      "district": 3
+    },
+    {
+      "first": "John",
+      "last": "Fleming",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "LA",
+      "district": 4
+    },
+    {
+      "first": "Bill",
+      "last": "Flores",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TX",
+      "district": 17
+    },
+    {
+      "first": "J.",
+      "last": "Forbes",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "VA",
+      "district": 4
+    },
+    {
+      "first": "Jeff",
+      "last": "Fortenberry",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NE",
+      "district": 1
+    },
+    {
+      "first": "Virginia",
+      "last": "Foxx",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NC",
+      "district": 5
+    },
+    {
+      "first": "Trent",
+      "last": "Franks",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "AZ",
+      "district": 8
+    },
+    {
+      "first": "Rodney",
+      "last": "Frelinghuysen",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NJ",
+      "district": 11
+    },
+    {
+      "first": "Marcia",
+      "last": "Fudge",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "OH",
+      "district": 11
+    },
+    {
+      "first": "John",
+      "last": "Garamendi",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 3
+    },
+    {
+      "first": "Cory",
+      "last": "Gardner",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CO",
+      "district": 4
+    },
+    {
+      "first": "Scott",
+      "last": "Garrett",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NJ",
+      "district": 5
+    },
+    {
+      "first": "Jim",
+      "last": "Gerlach",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "PA",
+      "district": 6
+    },
+    {
+      "first": "Bob",
+      "last": "Gibbs",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "OH",
+      "district": 7
+    },
+    {
+      "first": "Christopher",
+      "last": "Gibson",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NY",
+      "district": 19
+    },
+    {
+      "first": "Phil",
+      "last": "Gingrey",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "GA",
+      "district": 11
+    },
+    {
+      "first": "Louie",
+      "last": "Gohmert",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TX",
+      "district": 1
+    },
+    {
+      "first": "Bob",
+      "last": "Goodlatte",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "VA",
+      "district": 6
+    },
+    {
+      "first": "Paul",
+      "last": "Gosar",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "AZ",
+      "district": 4
+    },
+    {
+      "first": "Trey",
+      "last": "Gowdy",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "SC",
+      "district": 4
+    },
+    {
+      "first": "Kay",
+      "last": "Granger",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TX",
+      "district": 12
+    },
+    {
+      "first": "Sam",
+      "last": "Graves",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MO",
+      "district": 6
+    },
+    {
+      "first": "Tom",
+      "last": "Graves",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "GA",
+      "district": 14
+    },
+    {
+      "first": "Al",
+      "last": "Green",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TX",
+      "district": 9
+    },
+    {
+      "first": "Gene",
+      "last": "Green",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TX",
+      "district": 29
+    },
+    {
+      "first": "Tim",
+      "last": "Griffin",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "AR",
+      "district": 2
+    },
+    {
+      "first": "H.",
+      "last": "Griffith",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "VA",
+      "district": 9
+    },
+    {
+      "first": "Raúl",
+      "last": "Grijalva",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "AZ",
+      "district": 3
+    },
+    {
+      "first": "Michael",
+      "last": "Grimm",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NY",
+      "district": 11
+    },
+    {
+      "first": "Brett",
+      "last": "Guthrie",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "KY",
+      "district": 2
+    },
+    {
+      "first": "Luis",
+      "last": "Gutiérrez",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "IL",
+      "district": 4
+    },
+    {
+      "first": "Ralph",
+      "last": "Hall",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TX",
+      "district": 4
+    },
+    {
+      "first": "Colleen",
+      "last": "Hanabusa",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "HI",
+      "district": 1
+    },
+    {
+      "first": "Richard",
+      "last": "Hanna",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NY",
+      "district": 22
+    },
+    {
+      "first": "Gregg",
+      "last": "Harper",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MS",
+      "district": 3
+    },
+    {
+      "first": "Andy",
+      "last": "Harris",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MD",
+      "district": 1
+    },
+    {
+      "first": "Vicky",
+      "last": "Hartzler",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MO",
+      "district": 4
+    },
+    {
+      "first": "Alcee",
+      "last": "Hastings",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "FL",
+      "district": 20
+    },
+    {
+      "first": "Doc",
+      "last": "Hastings",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "WA",
+      "district": 4
+    },
+    {
+      "first": "Joseph",
+      "last": "Heck",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NV",
+      "district": 3
+    },
+    {
+      "first": "Jeb",
+      "last": "Hensarling",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TX",
+      "district": 5
+    },
+    {
+      "first": "Jaime",
+      "last": "Herrera Beutler",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "WA",
+      "district": 3
+    },
+    {
+      "first": "Brian",
+      "last": "Higgins",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NY",
+      "district": 26
+    },
+    {
+      "first": "James",
+      "last": "Himes",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CT",
+      "district": 4
+    },
+    {
+      "first": "Rubén",
+      "last": "Hinojosa",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TX",
+      "district": 15
+    },
+    {
+      "first": "Rush",
+      "last": "Holt",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NJ",
+      "district": 12
+    },
+    {
+      "first": "Michael",
+      "last": "Honda",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 17
+    },
+    {
+      "first": "Steny",
+      "last": "Hoyer",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MD",
+      "district": 5
+    },
+    {
+      "first": "Tim",
+      "last": "Huelskamp",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "KS",
+      "district": 1
+    },
+    {
+      "first": "Bill",
+      "last": "Huizenga",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MI",
+      "district": 2
+    },
+    {
+      "first": "Randy",
+      "last": "Hultgren",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "IL",
+      "district": 14
+    },
+    {
+      "first": "Duncan",
+      "last": "Hunter",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 50
+    },
+    {
+      "first": "Robert",
+      "last": "Hurt",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "VA",
+      "district": 5
+    },
+    {
+      "first": "Steve",
+      "last": "Israel",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NY",
+      "district": 3
+    },
+    {
+      "first": "Darrell",
+      "last": "Issa",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 49
+    },
+    {
+      "first": "Sheila",
+      "last": "Jackson Lee",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TX",
+      "district": 18
+    },
+    {
+      "first": "Lynn",
+      "last": "Jenkins",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "KS",
+      "district": 2
+    },
+    {
+      "first": "Bill",
+      "last": "Johnson",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "OH",
+      "district": 6
+    },
+    {
+      "first": "Eddie",
+      "last": "Johnson",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TX",
+      "district": 30
+    },
+    {
+      "first": "Henry",
+      "last": "Johnson",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "GA",
+      "district": 4
+    },
+    {
+      "first": "Sam",
+      "last": "Johnson",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TX",
+      "district": 3
+    },
+    {
+      "first": "Walter",
+      "last": "Jones",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NC",
+      "district": 3
+    },
+    {
+      "first": "Jim",
+      "last": "Jordan",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "OH",
+      "district": 4
+    },
+    {
+      "first": "Marcy",
+      "last": "Kaptur",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "OH",
+      "district": 9
+    },
+    {
+      "first": "William",
+      "last": "Keating",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MA",
+      "district": 9
+    },
+    {
+      "first": "Mike",
+      "last": "Kelly",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "PA",
+      "district": 3
+    },
+    {
+      "first": "Ron",
+      "last": "Kind",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "WI",
+      "district": 3
+    },
+    {
+      "first": "Peter",
+      "last": "King",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NY",
+      "district": 2
+    },
+    {
+      "first": "Steve",
+      "last": "King",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "IA",
+      "district": 4
+    },
+    {
+      "first": "Jack",
+      "last": "Kingston",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "GA",
+      "district": 1
+    },
+    {
+      "first": "Adam",
+      "last": "Kinzinger",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "IL",
+      "district": 16
+    },
+    {
+      "first": "John",
+      "last": "Kline",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MN",
+      "district": 2
+    },
+    {
+      "first": "Raúl",
+      "last": "Labrador",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "ID",
+      "district": 1
+    },
+    {
+      "first": "Doug",
+      "last": "Lamborn",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CO",
+      "district": 5
+    },
+    {
+      "first": "Leonard",
+      "last": "Lance",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NJ",
+      "district": 7
+    },
+    {
+      "first": "James",
+      "last": "Langevin",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "RI",
+      "district": 2
+    },
+    {
+      "first": "James",
+      "last": "Lankford",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "OK",
+      "district": 5
+    },
+    {
+      "first": "Rick",
+      "last": "Larsen",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "WA",
+      "district": 2
+    },
+    {
+      "first": "John",
+      "last": "Larson",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CT",
+      "district": 1
+    },
+    {
+      "first": "Tom",
+      "last": "Latham",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "IA",
+      "district": 3
+    },
+    {
+      "first": "Robert",
+      "last": "Latta",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "OH",
+      "district": 5
+    },
+    {
+      "first": "Barbara",
+      "last": "Lee",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 13
+    },
+    {
+      "first": "Sander",
+      "last": "Levin",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MI",
+      "district": 9
+    },
+    {
+      "first": "John",
+      "last": "Lewis",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "GA",
+      "district": 5
+    },
+    {
+      "first": "Daniel",
+      "last": "Lipinski",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "IL",
+      "district": 3
+    },
+    {
+      "first": "Frank",
+      "last": "LoBiondo",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NJ",
+      "district": 2
+    },
+    {
+      "first": "David",
+      "last": "Loebsack",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "IA",
+      "district": 2
+    },
+    {
+      "first": "Zoe",
+      "last": "Lofgren",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 19
+    },
+    {
+      "first": "Billy",
+      "last": "Long",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MO",
+      "district": 7
+    },
+    {
+      "first": "Nita",
+      "last": "Lowey",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NY",
+      "district": 17
+    },
+    {
+      "first": "Frank",
+      "last": "Lucas",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "OK",
+      "district": 3
+    },
+    {
+      "first": "Blaine",
+      "last": "Luetkemeyer",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MO",
+      "district": 3
+    },
+    {
+      "first": "Ben",
+      "last": "Luján",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NM",
+      "district": 3
+    },
+    {
+      "first": "Cynthia",
+      "last": "Lummis",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "WY",
+      "district": 0
+    },
+    {
+      "first": "Stephen",
+      "last": "Lynch",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MA",
+      "district": 8
+    },
+    {
+      "first": "Carolyn",
+      "last": "Maloney",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NY",
+      "district": 12
+    },
+    {
+      "first": "Kenny",
+      "last": "Marchant",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TX",
+      "district": 24
+    },
+    {
+      "first": "Tom",
+      "last": "Marino",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "PA",
+      "district": 10
+    },
+    {
+      "first": "Jim",
+      "last": "Matheson",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "UT",
+      "district": 4
+    },
+    {
+      "first": "Doris",
+      "last": "Matsui",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 6
+    },
+    {
+      "first": "Carolyn",
+      "last": "McCarthy",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NY",
+      "district": 4
+    },
+    {
+      "first": "Kevin",
+      "last": "McCarthy",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 23
+    },
+    {
+      "first": "Michael",
+      "last": "McCaul",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TX",
+      "district": 10
+    },
+    {
+      "first": "Tom",
+      "last": "McClintock",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 4
+    },
+    {
+      "first": "Betty",
+      "last": "McCollum",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MN",
+      "district": 4
+    },
+    {
+      "first": "Jim",
+      "last": "McDermott",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "WA",
+      "district": 7
+    },
+    {
+      "first": "James",
+      "last": "McGovern",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MA",
+      "district": 2
+    },
+    {
+      "first": "Patrick",
+      "last": "McHenry",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NC",
+      "district": 10
+    },
+    {
+      "first": "Mike",
+      "last": "McIntyre",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NC",
+      "district": 7
+    },
+    {
+      "first": "Howard",
+      "last": "McKeon",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 25
+    },
+    {
+      "first": "David",
+      "last": "McKinley",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "WV",
+      "district": 1
+    },
+    {
+      "first": "Cathy",
+      "last": "McMorris Rodgers",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "WA",
+      "district": 5
+    },
+    {
+      "first": "Jerry",
+      "last": "McNerney",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 9
+    },
+    {
+      "first": "Patrick",
+      "last": "Meehan",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "PA",
+      "district": 7
+    },
+    {
+      "first": "Gregory",
+      "last": "Meeks",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NY",
+      "district": 5
+    },
+    {
+      "first": "John",
+      "last": "Mica",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "FL",
+      "district": 7
+    },
+    {
+      "first": "Michael",
+      "last": "Michaud",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "ME",
+      "district": 2
+    },
+    {
+      "first": "Candice",
+      "last": "Miller",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MI",
+      "district": 10
+    },
+    {
+      "first": "Gary",
+      "last": "Miller",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 31
+    },
+    {
+      "first": "George",
+      "last": "Miller",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 11
+    },
+    {
+      "first": "Jeff",
+      "last": "Miller",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "FL",
+      "district": 1
+    },
+    {
+      "first": "Gwen",
+      "last": "Moore",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "WI",
+      "district": 4
+    },
+    {
+      "first": "James",
+      "last": "Moran",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "VA",
+      "district": 8
+    },
+    {
+      "first": "Mick",
+      "last": "Mulvaney",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "SC",
+      "district": 5
+    },
+    {
+      "first": "Tim",
+      "last": "Murphy",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "PA",
+      "district": 18
+    },
+    {
+      "first": "Jerrold",
+      "last": "Nadler",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NY",
+      "district": 10
+    },
+    {
+      "first": "Grace",
+      "last": "Napolitano",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 32
+    },
+    {
+      "first": "Richard",
+      "last": "Neal",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MA",
+      "district": 1
+    },
+    {
+      "first": "Randy",
+      "last": "Neugebauer",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TX",
+      "district": 19
+    },
+    {
+      "first": "Kristi",
+      "last": "Noem",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "SD",
+      "district": 0
+    },
+    {
+      "first": "Eleanor",
+      "last": "Norton",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "DC",
+      "district": 0
+    },
+    {
+      "first": "Richard",
+      "last": "Nugent",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "FL",
+      "district": 11
+    },
+    {
+      "first": "Devin",
+      "last": "Nunes",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 22
+    },
+    {
+      "first": "Alan",
+      "last": "Nunnelee",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MS",
+      "district": 1
+    },
+    {
+      "first": "Pete",
+      "last": "Olson",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TX",
+      "district": 22
+    },
+    {
+      "first": "William",
+      "last": "Owens",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NY",
+      "district": 21
+    },
+    {
+      "first": "Steven",
+      "last": "Palazzo",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MS",
+      "district": 4
+    },
+    {
+      "first": "Frank",
+      "last": "Pallone",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NJ",
+      "district": 6
+    },
+    {
+      "first": "Bill",
+      "last": "Pascrell",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NJ",
+      "district": 9
+    },
+    {
+      "first": "Ed",
+      "last": "Pastor",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "AZ",
+      "district": 7
+    },
+    {
+      "first": "Erik",
+      "last": "Paulsen",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MN",
+      "district": 3
+    },
+    {
+      "first": "Stevan",
+      "last": "Pearce",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NM",
+      "district": 2
+    },
+    {
+      "first": "Nancy",
+      "last": "Pelosi",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 12
+    },
+    {
+      "first": "Ed",
+      "last": "Perlmutter",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CO",
+      "district": 7
+    },
+    {
+      "first": "Gary",
+      "last": "Peters",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MI",
+      "district": 14
+    },
+    {
+      "first": "Collin",
+      "last": "Peterson",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MN",
+      "district": 7
+    },
+    {
+      "first": "Thomas",
+      "last": "Petri",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "WI",
+      "district": 6
+    },
+    {
+      "first": "Pedro",
+      "last": "Pierluisi",
+      "party": "Democrat",
+      "enddate": "2017-01-03",
+      "type": "rep",
+      "state": "PR",
+      "district": 0
+    },
+    {
+      "first": "Chellie",
+      "last": "Pingree",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "ME",
+      "district": 1
+    },
+    {
+      "first": "Joseph",
+      "last": "Pitts",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "PA",
+      "district": 16
+    },
+    {
+      "first": "Ted",
+      "last": "Poe",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TX",
+      "district": 2
+    },
+    {
+      "first": "Jared",
+      "last": "Polis",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CO",
+      "district": 2
+    },
+    {
+      "first": "Mike",
+      "last": "Pompeo",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "KS",
+      "district": 4
+    },
+    {
+      "first": "Bill",
+      "last": "Posey",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "FL",
+      "district": 8
+    },
+    {
+      "first": "David",
+      "last": "Price",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NC",
+      "district": 4
+    },
+    {
+      "first": "Tom",
+      "last": "Price",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "GA",
+      "district": 6
+    },
+    {
+      "first": "Mike",
+      "last": "Quigley",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "IL",
+      "district": 5
+    },
+    {
+      "first": "Nick",
+      "last": "Rahall",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "WV",
+      "district": 3
+    },
+    {
+      "first": "Charles",
+      "last": "Rangel",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NY",
+      "district": 13
+    },
+    {
+      "first": "Tom",
+      "last": "Reed",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NY",
+      "district": 23
+    },
+    {
+      "first": "David",
+      "last": "Reichert",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "WA",
+      "district": 8
+    },
+    {
+      "first": "James",
+      "last": "Renacci",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "OH",
+      "district": 16
+    },
+    {
+      "first": "Reid",
+      "last": "Ribble",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "WI",
+      "district": 8
+    },
+    {
+      "first": "Cedric",
+      "last": "Richmond",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "LA",
+      "district": 2
+    },
+    {
+      "first": "E.",
+      "last": "Rigell",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "VA",
+      "district": 2
+    },
+    {
+      "first": "Martha",
+      "last": "Roby",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "AL",
+      "district": 2
+    },
+    {
+      "first": "David",
+      "last": "Roe",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TN",
+      "district": 1
+    },
+    {
+      "first": "Harold",
+      "last": "Rogers",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "KY",
+      "district": 5
+    },
+    {
+      "first": "Mike",
+      "last": "Rogers",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MI",
+      "district": 8
+    },
+    {
+      "first": "Mike",
+      "last": "Rogers",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "AL",
+      "district": 3
+    },
+    {
+      "first": "Dana",
+      "last": "Rohrabacher",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 48
+    },
+    {
+      "first": "Todd",
+      "last": "Rokita",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "IN",
+      "district": 4
+    },
+    {
+      "first": "Thomas",
+      "last": "Rooney",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "FL",
+      "district": 17
+    },
+    {
+      "first": "Ileana",
+      "last": "Ros-Lehtinen",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "FL",
+      "district": 27
+    },
+    {
+      "first": "Peter",
+      "last": "Roskam",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "IL",
+      "district": 6
+    },
+    {
+      "first": "Dennis",
+      "last": "Ross",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "FL",
+      "district": 15
+    },
+    {
+      "first": "Lucille",
+      "last": "Roybal-Allard",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 40
+    },
+    {
+      "first": "Edward",
+      "last": "Royce",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 39
+    },
+    {
+      "first": "Jon",
+      "last": "Runyan",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NJ",
+      "district": 3
+    },
+    {
+      "first": "C.",
+      "last": "Ruppersberger",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MD",
+      "district": 2
+    },
+    {
+      "first": "Bobby",
+      "last": "Rush",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "IL",
+      "district": 1
+    },
+    {
+      "first": "Paul",
+      "last": "Ryan",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "WI",
+      "district": 1
+    },
+    {
+      "first": "Tim",
+      "last": "Ryan",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "OH",
+      "district": 13
+    },
+    {
+      "first": "Gregorio",
+      "last": "Sablan",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MP",
+      "district": 0
+    },
+    {
+      "first": "Loretta",
+      "last": "Sanchez",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 46
+    },
+    {
+      "first": "John",
+      "last": "Sarbanes",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MD",
+      "district": 3
+    },
+    {
+      "first": "Steve",
+      "last": "Scalise",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "LA",
+      "district": 1
+    },
+    {
+      "first": "Janice",
+      "last": "Schakowsky",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "IL",
+      "district": 9
+    },
+    {
+      "first": "Adam",
+      "last": "Schiff",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 28
+    },
+    {
+      "first": "Aaron",
+      "last": "Schock",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "IL",
+      "district": 18
+    },
+    {
+      "first": "Kurt",
+      "last": "Schrader",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "OR",
+      "district": 5
+    },
+    {
+      "first": "Allyson",
+      "last": "Schwartz",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "PA",
+      "district": 13
+    },
+    {
+      "first": "David",
+      "last": "Schweikert",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "AZ",
+      "district": 6
+    },
+    {
+      "first": "Austin",
+      "last": "Scott",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "GA",
+      "district": 8
+    },
+    {
+      "first": "David",
+      "last": "Scott",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "GA",
+      "district": 13
+    },
+    {
+      "first": "Robert",
+      "last": "Scott",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "VA",
+      "district": 3
+    },
+    {
+      "first": "F.",
+      "last": "Sensenbrenner",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "WI",
+      "district": 5
+    },
+    {
+      "first": "José",
+      "last": "Serrano",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NY",
+      "district": 15
+    },
+    {
+      "first": "Pete",
+      "last": "Sessions",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TX",
+      "district": 32
+    },
+    {
+      "first": "Terri",
+      "last": "Sewell",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "AL",
+      "district": 7
+    },
+    {
+      "first": "Brad",
+      "last": "Sherman",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 30
+    },
+    {
+      "first": "John",
+      "last": "Shimkus",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "IL",
+      "district": 15
+    },
+    {
+      "first": "Bill",
+      "last": "Shuster",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "PA",
+      "district": 9
+    },
+    {
+      "first": "Michael",
+      "last": "Simpson",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "ID",
+      "district": 2
+    },
+    {
+      "first": "Albio",
+      "last": "Sires",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NJ",
+      "district": 8
+    },
+    {
+      "first": "Louise",
+      "last": "Slaughter",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NY",
+      "district": 25
+    },
+    {
+      "first": "Adam",
+      "last": "Smith",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "WA",
+      "district": 9
+    },
+    {
+      "first": "Adrian",
+      "last": "Smith",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NE",
+      "district": 3
+    },
+    {
+      "first": "Christopher",
+      "last": "Smith",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NJ",
+      "district": 4
+    },
+    {
+      "first": "Lamar",
+      "last": "Smith",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TX",
+      "district": 21
+    },
+    {
+      "first": "Steve",
+      "last": "Southerland",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "FL",
+      "district": 2
+    },
+    {
+      "first": "Jackie",
+      "last": "Speier",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 14
+    },
+    {
+      "first": "Steve",
+      "last": "Stivers",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "OH",
+      "district": 15
+    },
+    {
+      "first": "Marlin",
+      "last": "Stutzman",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "IN",
+      "district": 3
+    },
+    {
+      "first": "Linda",
+      "last": "Sánchez",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 38
+    },
+    {
+      "first": "Lee",
+      "last": "Terry",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NE",
+      "district": 2
+    },
+    {
+      "first": "Bennie",
+      "last": "Thompson",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MS",
+      "district": 2
+    },
+    {
+      "first": "Mike",
+      "last": "Thompson",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 5
+    },
+    {
+      "first": "Glenn",
+      "last": "Thompson",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "PA",
+      "district": 5
+    },
+    {
+      "first": "Mac",
+      "last": "Thornberry",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TX",
+      "district": 13
+    },
+    {
+      "first": "Patrick",
+      "last": "Tiberi",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "OH",
+      "district": 12
+    },
+    {
+      "first": "John",
+      "last": "Tierney",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MA",
+      "district": 6
+    },
+    {
+      "first": "Scott",
+      "last": "Tipton",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CO",
+      "district": 3
+    },
+    {
+      "first": "Paul",
+      "last": "Tonko",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NY",
+      "district": 20
+    },
+    {
+      "first": "Niki",
+      "last": "Tsongas",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MA",
+      "district": 3
+    },
+    {
+      "first": "Michael",
+      "last": "Turner",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "OH",
+      "district": 10
+    },
+    {
+      "first": "Fred",
+      "last": "Upton",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MI",
+      "district": 6
+    },
+    {
+      "first": "Chris",
+      "last": "Van Hollen",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MD",
+      "district": 8
+    },
+    {
+      "first": "Nydia",
+      "last": "Velázquez",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NY",
+      "district": 7
+    },
+    {
+      "first": "Peter",
+      "last": "Visclosky",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "IN",
+      "district": 1
+    },
+    {
+      "first": "Tim",
+      "last": "Walberg",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MI",
+      "district": 7
+    },
+    {
+      "first": "Greg",
+      "last": "Walden",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "OR",
+      "district": 2
+    },
+    {
+      "first": "Timothy",
+      "last": "Walz",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MN",
+      "district": 1
+    },
+    {
+      "first": "Debbie",
+      "last": "Wasserman Schultz",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "FL",
+      "district": 23
+    },
+    {
+      "first": "Maxine",
+      "last": "Waters",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 43
+    },
+    {
+      "first": "Melvin",
+      "last": "Watt",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NC",
+      "district": 12
+    },
+    {
+      "first": "Henry",
+      "last": "Waxman",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 33
+    },
+    {
+      "first": "Daniel",
+      "last": "Webster",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "FL",
+      "district": 10
+    },
+    {
+      "first": "Peter",
+      "last": "Welch",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "VT",
+      "district": 0
+    },
+    {
+      "first": "Lynn",
+      "last": "Westmoreland",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "GA",
+      "district": 3
+    },
+    {
+      "first": "Ed",
+      "last": "Whitfield",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "KY",
+      "district": 1
+    },
+    {
+      "first": "Joe",
+      "last": "Wilson",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "SC",
+      "district": 2
+    },
+    {
+      "first": "Frederica",
+      "last": "Wilson",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "FL",
+      "district": 24
+    },
+    {
+      "first": "Robert",
+      "last": "Wittman",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "VA",
+      "district": 1
+    },
+    {
+      "first": "Frank",
+      "last": "Wolf",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "VA",
+      "district": 10
+    },
+    {
+      "first": "Steve",
+      "last": "Womack",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "AR",
+      "district": 3
+    },
+    {
+      "first": "Rob",
+      "last": "Woodall",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "GA",
+      "district": 7
+    },
+    {
+      "first": "John",
+      "last": "Yarmuth",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "KY",
+      "district": 3
+    },
+    {
+      "first": "Kevin",
+      "last": "Yoder",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "KS",
+      "district": 3
+    },
+    {
+      "first": "Don",
+      "last": "Young",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "AK",
+      "district": 0
+    },
+    {
+      "first": "Todd",
+      "last": "Young",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "IN",
+      "district": 9
+    },
+    {
+      "first": "Janice",
+      "last": "Hahn",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 44
+    },
+    {
+      "first": "Mark",
+      "last": "Amodei",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NV",
+      "district": 2
+    },
+    {
+      "first": "Suzanne",
+      "last": "Bonamici",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "OR",
+      "district": 1
+    },
+    {
+      "first": "Ron",
+      "last": "Barber",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "AZ",
+      "district": 2
+    },
+    {
+      "first": "Suzan",
+      "last": "DelBene",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "WA",
+      "district": 1
+    },
+    {
+      "first": "Thomas",
+      "last": "Massie",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "KY",
+      "district": 4
+    },
+    {
+      "first": "Donald",
+      "last": "Payne",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NJ",
+      "district": 10
+    },
+    {
+      "first": "Matt",
+      "last": "Salmon",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "AZ",
+      "district": 5
+    },
+    {
+      "first": "Steve",
+      "last": "Stockman",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TX",
+      "district": 36
+    },
+    {
+      "first": "Carol",
+      "last": "Shea-Porter",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NH",
+      "district": 1
+    },
+    {
+      "first": "Bill",
+      "last": "Foster",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "IL",
+      "district": 11
+    },
+    {
+      "first": "Alan",
+      "last": "Grayson",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "FL",
+      "district": 9
+    },
+    {
+      "first": "Ann",
+      "last": "Kirkpatrick",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "AZ",
+      "district": 1
+    },
+    {
+      "first": "Daniel",
+      "last": "Maffei",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NY",
+      "district": 24
+    },
+    {
+      "first": "Dina",
+      "last": "Titus",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NV",
+      "district": 1
+    },
+    {
+      "first": "Tom",
+      "last": "Cotton",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "AR",
+      "district": 4
+    },
+    {
+      "first": "Kyrsten",
+      "last": "Sinema",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "AZ",
+      "district": 9
+    },
+    {
+      "first": "Doug",
+      "last": "LaMalfa",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 1
+    },
+    {
+      "first": "Jared",
+      "last": "Huffman",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 2
+    },
+    {
+      "first": "Ami",
+      "last": "Bera",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 7
+    },
+    {
+      "first": "Paul",
+      "last": "Cook",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 8
+    },
+    {
+      "first": "Eric",
+      "last": "Swalwell",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 15
+    },
+    {
+      "first": "David",
+      "last": "Valadao",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 21
+    },
+    {
+      "first": "Julia",
+      "last": "Brownley",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 26
+    },
+    {
+      "first": "Tony",
+      "last": "Cárdenas",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 29
+    },
+    {
+      "first": "Gloria",
+      "last": "Negrete McLeod",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 35
+    },
+    {
+      "first": "Raul",
+      "last": "Ruiz",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 36
+    },
+    {
+      "first": "Mark",
+      "last": "Takano",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 41
+    },
+    {
+      "first": "Alan",
+      "last": "Lowenthal",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 47
+    },
+    {
+      "first": "Juan",
+      "last": "Vargas",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 51
+    },
+    {
+      "first": "Scott",
+      "last": "Peters",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CA",
+      "district": 52
+    },
+    {
+      "first": "Elizabeth",
+      "last": "Esty",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "CT",
+      "district": 5
+    },
+    {
+      "first": "Ted",
+      "last": "Yoho",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "FL",
+      "district": 3
+    },
+    {
+      "first": "Ron",
+      "last": "DeSantis",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "FL",
+      "district": 6
+    },
+    {
+      "first": "Patrick",
+      "last": "Murphy",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "FL",
+      "district": 18
+    },
+    {
+      "first": "Trey",
+      "last": "Radel",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "FL",
+      "district": 19
+    },
+    {
+      "first": "Lois",
+      "last": "Frankel",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "FL",
+      "district": 22
+    },
+    {
+      "first": "Joe",
+      "last": "Garcia",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "FL",
+      "district": 26
+    },
+    {
+      "first": "Doug",
+      "last": "Collins",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "GA",
+      "district": 9
+    },
+    {
+      "first": "Tulsi",
+      "last": "Gabbard",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "HI",
+      "district": 2
+    },
+    {
+      "first": "Tammy",
+      "last": "Duckworth",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "IL",
+      "district": 8
+    },
+    {
+      "first": "Bradley",
+      "last": "Schneider",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "IL",
+      "district": 10
+    },
+    {
+      "first": "William",
+      "last": "Enyart",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "IL",
+      "district": 12
+    },
+    {
+      "first": "Rodney",
+      "last": "Davis",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "IL",
+      "district": 13
+    },
+    {
+      "first": "Cheri",
+      "last": "Bustos",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "IL",
+      "district": 17
+    },
+    {
+      "first": "Jackie",
+      "last": "Walorski",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "IN",
+      "district": 2
+    },
+    {
+      "first": "Susan",
+      "last": "Brooks",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "IN",
+      "district": 5
+    },
+    {
+      "first": "Luke",
+      "last": "Messer",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "IN",
+      "district": 6
+    },
+    {
+      "first": "Garland",
+      "last": "Barr",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "KY",
+      "district": 6
+    },
+    {
+      "first": "Joseph",
+      "last": "Kennedy",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MA",
+      "district": 4
+    },
+    {
+      "first": "John",
+      "last": "Delaney",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MD",
+      "district": 6
+    },
+    {
+      "first": "Daniel",
+      "last": "Kildee",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MI",
+      "district": 5
+    },
+    {
+      "first": "Kerry",
+      "last": "Bentivolio",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MI",
+      "district": 11
+    },
+    {
+      "first": "Richard",
+      "last": "Nolan",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MN",
+      "district": 8
+    },
+    {
+      "first": "Ann",
+      "last": "Wagner",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MO",
+      "district": 2
+    },
+    {
+      "first": "Steve",
+      "last": "Daines",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MT",
+      "district": 0
+    },
+    {
+      "first": "Richard",
+      "last": "Hudson",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NC",
+      "district": 8
+    },
+    {
+      "first": "Robert",
+      "last": "Pittenger",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NC",
+      "district": 9
+    },
+    {
+      "first": "Mark",
+      "last": "Meadows",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NC",
+      "district": 11
+    },
+    {
+      "first": "George",
+      "last": "Holding",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NC",
+      "district": 13
+    },
+    {
+      "first": "Kevin",
+      "last": "Cramer",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "ND",
+      "district": 0
+    },
+    {
+      "first": "Ann",
+      "last": "Kuster",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NH",
+      "district": 2
+    },
+    {
+      "first": "Michelle",
+      "last": "Lujan Grisham",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NM",
+      "district": 1
+    },
+    {
+      "first": "Steven",
+      "last": "Horsford",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NV",
+      "district": 4
+    },
+    {
+      "first": "Grace",
+      "last": "Meng",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NY",
+      "district": 6
+    },
+    {
+      "first": "Hakeem",
+      "last": "Jeffries",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NY",
+      "district": 8
+    },
+    {
+      "first": "Sean",
+      "last": "Maloney",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NY",
+      "district": 18
+    },
+    {
+      "first": "Chris",
+      "last": "Collins",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "NY",
+      "district": 27
+    },
+    {
+      "first": "Brad",
+      "last": "Wenstrup",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "OH",
+      "district": 2
+    },
+    {
+      "first": "Joyce",
+      "last": "Beatty",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "OH",
+      "district": 3
+    },
+    {
+      "first": "David",
+      "last": "Joyce",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "OH",
+      "district": 14
+    },
+    {
+      "first": "Jim",
+      "last": "Bridenstine",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "OK",
+      "district": 1
+    },
+    {
+      "first": "Markwayne",
+      "last": "Mullin",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "OK",
+      "district": 2
+    },
+    {
+      "first": "Scott",
+      "last": "Perry",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "PA",
+      "district": 4
+    },
+    {
+      "first": "Keith",
+      "last": "Rothfus",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "PA",
+      "district": 12
+    },
+    {
+      "first": "Matthew",
+      "last": "Cartwright",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "PA",
+      "district": 17
+    },
+    {
+      "first": "Tom",
+      "last": "Rice",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "SC",
+      "district": 7
+    },
+    {
+      "first": "Randy",
+      "last": "Weber",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TX",
+      "district": 14
+    },
+    {
+      "first": "Beto",
+      "last": "O'Rourke",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TX",
+      "district": 16
+    },
+    {
+      "first": "Joaquin",
+      "last": "Castro",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TX",
+      "district": 20
+    },
+    {
+      "first": "Pete",
+      "last": "Gallego",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TX",
+      "district": 23
+    },
+    {
+      "first": "Roger",
+      "last": "Williams",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TX",
+      "district": 25
+    },
+    {
+      "first": "Marc",
+      "last": "Veasey",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TX",
+      "district": 33
+    },
+    {
+      "first": "Filemon",
+      "last": "Vela",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "TX",
+      "district": 34
+    },
+    {
+      "first": "Chris",
+      "last": "Stewart",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "UT",
+      "district": 2
+    },
+    {
+      "first": "Derek",
+      "last": "Kilmer",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "WA",
+      "district": 6
+    },
+    {
+      "first": "Denny",
+      "last": "Heck",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "WA",
+      "district": 10
+    },
+    {
+      "first": "Mark",
+      "last": "Pocan",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "WI",
+      "district": 2
+    },
+    {
+      "first": "Robin",
+      "last": "Kelly",
+      "party": "Democrat",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "IL",
+      "district": 2
+    },
+    {
+      "first": "Marshall",
+      "last": "Sanford",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "SC",
+      "district": 1
+    },
+    {
+      "first": "Jason",
+      "last": "Smith",
+      "party": "Republican",
+      "enddate": "2015-01-03",
+      "type": "rep",
+      "state": "MO",
+      "district": 8
+    }
+  ]
+}
