@@ -32,20 +32,21 @@ path {
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script src="http://d3js.org/queue.v1.min.js"></script>
 <script src="http://d3js.org/topojson.v1.min.js"></script>
+<script src="sprintf.js"></script>
 
 <script>
 
-var districts = []
-$.getJSON( "/texaszip.json", function( data ) {
-
-  $.each( data, function( key, val ) {
-    if (typeof districts[val.z] == "undefined") {
-      districts[val.z] = new Array();
-    }
-    districts[val.z].push(val.d);
-    //districts[val.z] = val.d;
-  });
-
+var districts; 
+var stateabbr2id; 
+var congress;
+$.getJSON( "/stateinfo.json", function( data ) {
+  districts = data
+});
+$.getJSON( "/congress.json", function( data ) {
+  congress = data
+});
+$.getJSON( "/stateabbr2id.json", function( data ) {
+  stateabbr2id = data
 });
 
 </script>
@@ -73,7 +74,7 @@ var svg = d3.select("body").append("svg")
     .attr("height", height);
 
 var g = svg.append("g");
-var districtPaths = [];
+var districtPaths = {};
 
 queue()
     .defer(d3.json, "/us.json")
@@ -124,16 +125,27 @@ function ready(error, us, congress) {
     .attr("class", "state-boundaries")
     .datum(topojson.mesh(us, us.objects.states, function(a, b) { return a !== b; }))
     .attr("d", path);
+
+  $(userZip).keyup(function(event){
+    if(event.keyCode == 13){
+        $(submitbutton).click();
+    }
+  });
 }
 
 
 function render(d) {
   //console.log("state = " + d.properties.STATEFP + ", district = " + d.properties.CD113FP);
-  var state = d.properties.STATEFP;
-  var district = d.properties.CD113FP; 
-  if (state == 48) {
-    districtPaths[district] = d;
+  var state = parseInt(d.properties.STATEFP);
+  var district = parseInt(d.properties.CD113FP); 
+  if (typeof districtPaths[state] == "undefined") {
+     districtPaths[state] = {}
   }
+  if (state == "01") {
+   var a=1;
+
+  }
+  districtPaths[state][district] = d;
 }
 
 
@@ -183,27 +195,66 @@ function highlightDistrict(d) {
 function findZip() {
    var zip = $(userZip).val();
    var paths = [];
-   districts[zip].map( function(item) {
-      paths.push(districtPaths[item]);
-   });
-   clicked(districtPaths[districts[zip][0]]);
-   
-/*
-   for (i in districts[zip]) {
-      var seldis = districts[zip][i];
-      if (i == 0) {
-         clicked(districtPaths[seldis])
+   var selState;
+   var selDistricts;
+   var selCongress = [];
+   var selSenators = [];   
+   for (state in districts) {
+      if (typeof districts[state][zip] != "undefined") {
+         selState = state;
+         selDistricts = districts[state][zip];
+         clicked(districtPaths[state][districts[state][zip][0]]);
+         districts[state][zip].map( function(item) {
+            paths.push(districtPaths[state][item]);
+         });
+         break;
       }
-      paths.push(districtPaths[seldis]);
    }
-*/
+   
    highlightDistrict(paths);
+   
+   congress["sen"].forEach(function(element, index, array) {
+      sid = stateabbr2id[element["state"]];
+      if (sid == selState) {
+         selSenators.push(element);
+      }
+   });
+
+   congress["con"].forEach(function(element, index, array) {
+      //console.log(element);
+
+      if (element["first"] == "Martha") {
+        var a=1;
+      }
+      
+      sid = stateabbr2id[element["state"]];
+      if (sid != selState) {
+         return;
+      }
+      if (jQuery.inArray(element["district"], selDistricts) != -1) {
+         selCongress.push(element);
+      }
+   });
+
+   $(districtInfo).html("<h2>Senators</h2>");
+   selSenators.forEach(function(elem, index) {
+      //$(districtInfo).append("<li>{0} {1} {2}" + elem["first"] + " " + elem["last"]);
+      $(districtInfo).append(
+         sprintf("<li>%s %s (%s)", elem["first"], elem["last"], elem["party"].substr(0,1)));
+   });
+   $(districtInfo).append("<h2>Congressmen</h2>");
+   selCongress.forEach(function(elem, index) {
+      $(districtInfo).append(
+         sprintf("<li>%s %s (%s)", elem["first"], elem["last"], elem["party"].substr(0,1)));
+      //$(districtInfo).append("<li>Congress: " + elem["first"] + " " + elem["last"]);
+   });
 
 }
 
 </script>
 <br>
 Enter your zip
-<input id="userZip" value="78757"/> <input type="button" onclick="findZip()" value="submit"/>
-
+<input id="userZip" value="36105"/> <input id="submitbutton" type="button" onclick="findZip()" value="submit"/>
+<p>
+<spam id="districtInfo"/>
 
